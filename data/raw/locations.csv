@@ -1,0 +1,11 @@
+location_id,location_name,borough,zone,latitude,longitude,popular_pickup,popular_dropoff
+LOC001,Times Square,Manhattan,Midtown,40.7589,-73.9851,TRUE,TRUE
+LOC002,Wall Street,Manhattan,Financial District,40.7128,-74.0060,TRUE,TRUE
+LOC003,Empire State Building,Manhattan,Midtown,40.7489,-73.9680,TRUE,FALSE
+LOC004,Central Park South,Manhattan,Upper Manhattan,40.7614,-73.9776,TRUE,TRUE
+LOC005,Brooklyn Bridge,Brooklyn,DUMBO,40.7061,-73.9969,FALSE,TRUE
+LOC006,JFK Airport,Queens,Airport,40.6413,-73.7781,TRUE,TRUE
+LOC007,LaGuardia Airport,Queens,Airport,40.7769,-73.8740,TRUE,TRUE
+LOC008,Yankee Stadium,Bronx,Concourse,40.8296,-73.9262,FALSE,TRUE
+LOC009,Coney Island,Brooklyn,Southern Brooklyn,40.5755,-73.9707,FALSE,FALSE
+LOC010,Staten Island Ferry,Staten Island,St. George,40.6436,-74.0736,FALSE,TRUE

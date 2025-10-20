@@ -1,0 +1,11 @@
+driver_id,name,phone,email,registration_date,rating,total_rides,years_experience,vehicle_type,license_number
+D101,John Smith,555-0101,john.smith@email.com,2022-03-15,4.8,1247,5,sedan,LIC001
+D102,Maria Garcia,555-0102,maria.garcia@email.com,2021-06-20,4.9,1856,7,suv,LIC002
+D103,James Wilson,555-0103,james.wilson@email.com,2023-01-10,4.6,543,2,sedan,LIC003
+D104,Sarah Johnson,555-0104,sarah.johnson@email.com,2022-08-05,4.7,982,4,sedan,LIC004
+D105,Michael Brown,555-0105,michael.brown@email.com,2021-11-12,4.9,1623,6,suv,LIC005
+D106,Emily Davis,555-0106,emily.davis@email.com,2023-02-28,4.5,412,1,sedan,LIC006
+D107,Robert Martinez,555-0107,robert.martinez@email.com,2022-05-18,4.8,1098,3,suv,LIC007
+D108,Lisa Anderson,555-0108,lisa.anderson@email.com,2021-09-22,4.9,1734,5,sedan,LIC008
+D109,David Taylor,555-0109,david.taylor@email.com,2023-03-14,4.4,298,1,sedan,LIC009
+D110,Jennifer Thomas,555-0110,jennifer.thomas@email.com,2022-07-09,4.7,876,3,suv,LIC010
